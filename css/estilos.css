@@ -14,6 +14,8 @@ header, nav, section, footer{
 
 nav{
     background-color: olivedrab;
+    position: sticky;
+    top: 0;
 }
 
 nav a{
