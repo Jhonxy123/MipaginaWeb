@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(white, blue);
+}
+
+header, nav, section, footer{
+    background-color: papayawhip;
+    border-style: 1;
+    margin: 20px;
+    width: 90%;
+    padding: 20px;
+    display: block;
+    border-radius: 22px;
+}
+
+nav{
+    background-color: olivedrab;
+}
+
+nav a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0em;
+}
+
+nav li{
+    display: inline;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+nav li a{
+    padding: 0.9em;
+}
+
+nav li a:hover{
+    background-color: #515815;
+    border-radius: 22px;
+}
